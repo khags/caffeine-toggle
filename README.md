@@ -1,4 +1,4 @@
 caffeine-toggle
 ===============
 
-Caffeine Toggle
+Applescript for Keyboard Maestro to toggle the Caffeine program on or off
